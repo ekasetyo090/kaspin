@@ -1,0 +1,1 @@
+[{"mode":"export_barang","kode":0,"status":1,"keterangan":"Export Barang","timestamp":"2018-12-17 15:34:45"},{"mode":"export_barang","kode":0,"status":1,"keterangan":"Export Barang","timestamp":"2018-12-17 15:34:51"},{"mode":"export_barang","kode":0,"status":1,"keterangan":"Export Barang","timestamp":"2018-12-17 15:34:57"}]

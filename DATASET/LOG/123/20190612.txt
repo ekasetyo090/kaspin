@@ -1,0 +1,1 @@
+[{"mode":"edit_barang","kode":"222","status":1,"keterangan":"Mengubah Barang 222","timestamp":"2019-06-12 21:49:05"}]

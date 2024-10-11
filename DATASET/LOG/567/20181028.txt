@@ -1,0 +1,1 @@
+[{"mode":"add_barang","kode":"8996129803504","status":0,"keterangan":"Menambah Barang 8996129803504","timestamp":"2018-10-28 13:49:35"}]

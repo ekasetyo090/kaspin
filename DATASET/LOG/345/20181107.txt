@@ -1,0 +1,1 @@
+[{"mode":"add_laporan_pembelian","kode":"20181107222803","status":0,"keterangan":"Menambah Laporan Pembelian 20181107222803","timestamp":"2018-11-07 22:28:04"},{"mode":"tambah_stok","kode":3013202,"status":0,"keterangan":"Tambah Stok Transaksi Pembelian 3013202","timestamp":"2018-11-07 22:28:04"}]

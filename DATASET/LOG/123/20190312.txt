@@ -1,0 +1,1 @@
+[{"mode":"login","kode":0,"status":0,"keterangan":"Masuk Biasa dengan MiTablet","timestamp":"2019-03-12 10:46:30"},{"mode":"edit_barang","kode":"AMSRT","status":0,"keterangan":"Mengubah Barang AMSRT","timestamp":"2019-03-12 10:49:06"},{"mode":"login","kode":0,"status":0,"keterangan":"Masuk Google dengan ","timestamp":"2019-03-12 13:10:24"}]

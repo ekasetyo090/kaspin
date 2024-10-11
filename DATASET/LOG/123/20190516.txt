@@ -1,0 +1,1 @@
+[{"mode":"edit_barang","kode":"AMSRT","status":0,"keterangan":"Mengubah Barang AMSRT","timestamp":"2019-05-16 09:43:07"},{"mode":"logout","kode":0,"status":0,"keterangan":"Keluar dari Aplikasi","timestamp":"2019-05-16 15:04:58"}]

@@ -1,0 +1,1 @@
+[{"mode":"login","kode":0,"status":0,"keterangan":"Masuk Google dengan  AndroidOS 182.1.67.90","timestamp":"2019-07-22 13:28:34"},{"mode":"logout","kode":0,"status":0,"keterangan":"Keluar dari Aplikasi","timestamp":"2019-07-22 13:59:44"}]

@@ -1,0 +1,1 @@
+[{"mode":"transfer_stok","kode":0,"status":1,"keterangan":"Transfer Stok","timestamp":"2019-04-10 13:08:37"}]

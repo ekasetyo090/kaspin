@@ -1,0 +1,1 @@
+[{"mode":"edit_barang","kode":"50008199","status":0,"keterangan":"Mengubah Barang 50008199","timestamp":"2018-10-12 12:20:45"}]

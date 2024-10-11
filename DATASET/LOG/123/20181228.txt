@@ -1,0 +1,1 @@
+[{"mode":"edit_barang","kode":"AMSRT","status":0,"keterangan":"Mengubah Barang AMSRT","timestamp":"2018-12-28 08:10:21"},{"mode":"add_barang","kode":"58992772","status":0,"keterangan":"Menambah Barang 58992772","timestamp":"2018-12-28 08:18:57"},{"mode":"edit_barang","kode":"58992772","status":0,"keterangan":"Mengubah Barang 58992772","timestamp":"2018-12-28 08:19:53"}]

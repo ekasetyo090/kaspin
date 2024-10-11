@@ -1,0 +1,1 @@
+[{"mode":"add_diskon","kode":371,"status":1,"keterangan":"Tambah Data Diskon diskon rupiah","timestamp":"2018-10-01 14:47:47"}]

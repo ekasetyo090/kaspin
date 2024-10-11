@@ -1,0 +1,1 @@
+[{"mode":"add_laporan_transaksi","kode":"20190528091005","status":0,"keterangan":"Menambah Laporan Transaksi 20190528091005","timestamp":"2019-05-28 09:10:03"},{"mode":"logout","kode":0,"status":0,"keterangan":"Keluar dari Aplikasi","timestamp":"2019-05-28 11:58:42"}]

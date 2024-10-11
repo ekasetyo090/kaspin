@@ -1,0 +1,1 @@
+[{"mode":"edit_toko","kode":33,"status":1,"keterangan":"Mengubah Data Toko","timestamp":"2018-12-27 09:47:05"},{"mode":"edit_toko","kode":33,"status":1,"keterangan":"Mengubah Data Toko","timestamp":"2018-12-27 09:47:38"},{"mode":"add_pajak","kode":255,"status":1,"keterangan":"Tambah Data Pajak sdfsdfsdf","timestamp":"2018-12-27 13:17:28"}]

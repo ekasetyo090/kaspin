@@ -1,0 +1,1 @@
+[{"mode":"edit_barang","kode":"8991002101630","status":0,"keterangan":"Mengubah Barang 8991002101630","timestamp":"2018-12-10 15:45:47"}]

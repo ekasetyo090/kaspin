@@ -1,0 +1,1 @@
+[{"mode":"aktif_plugin","kode":"ingredients_plugin","status":1,"keterangan":"Aktif Plugin ingredients_plugin","timestamp":"2018-12-19 16:31:49"},{"mode":"edit_toko","kode":60,"status":0,"keterangan":"Mengubah Data Toko","timestamp":"2018-12-19 18:01:04"}]

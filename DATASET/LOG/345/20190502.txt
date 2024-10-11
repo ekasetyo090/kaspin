@@ -1,0 +1,1 @@
+[{"mode":"login","kode":0,"status":0,"keterangan":"Masuk Biasa dengan ","timestamp":"2019-05-02 11:08:41"},{"mode":"logout","kode":0,"status":0,"keterangan":"Keluar dari Aplikasi","timestamp":"2019-05-02 11:08:51"}]

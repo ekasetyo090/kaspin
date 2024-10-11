@@ -1,0 +1,1 @@
+[{"mode":"login","kode":0,"status":0,"keterangan":"Masuk Biasa dengan MiTablet","timestamp":"2019-03-14 11:24:05"},{"mode":"logout","kode":0,"status":0,"keterangan":"Keluar dari Aplikasi","timestamp":"2019-03-14 11:24:20"}]

@@ -1,0 +1,1 @@
+[{"mode":"logout","kode":0,"status":0,"keterangan":"Keluar dari Aplikasi","timestamp":"2019-02-20 08:44:58"}]

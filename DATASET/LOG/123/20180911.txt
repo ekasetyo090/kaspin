@@ -1,0 +1,1 @@
+[{"mode":"add_suplier","kode":"yuhu@gmail.com","status":0,"keterangan":"Menambah Data Suplier yuhu@gmail.com","timestamp":"2018-09-11 01:33:20"},{"mode":"add_laporan_transaksi","kode":"20180911234616","status":0,"keterangan":"Menambah Laporan Transaksi 20180911234616","timestamp":"2018-09-11 23:44:19"}]

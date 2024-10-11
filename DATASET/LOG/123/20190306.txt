@@ -1,0 +1,1 @@
+[{"mode":"logout","kode":0,"status":0,"keterangan":"Keluar dari Aplikasi","timestamp":"2019-03-06 14:21:48"},{"mode":"login","kode":0,"status":0,"keterangan":"Masuk Google dengan ","timestamp":"2019-03-06 23:38:34"}]

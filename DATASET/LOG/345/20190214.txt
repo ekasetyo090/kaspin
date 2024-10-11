@@ -1,0 +1,1 @@
+[{"mode":"aktif_plugin","kode":"bussiness_plugin","status":1,"keterangan":"Aktif Plugin bussiness_plugin","timestamp":"2019-02-14 11:11:57"},{"mode":"add_laporan_transaksi","kode":"20190214111223","status":0,"keterangan":"Menambah Laporan Transaksi 20190214111223","timestamp":"2019-02-14 11:12:24"}]

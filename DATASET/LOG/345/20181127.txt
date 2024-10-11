@@ -1,0 +1,1 @@
+[{"mode":"aktif_plugin","kode":"food_menu_plugin","status":1,"keterangan":"Aktif Plugin food_menu_plugin","timestamp":"2018-11-27 10:05:21"}]

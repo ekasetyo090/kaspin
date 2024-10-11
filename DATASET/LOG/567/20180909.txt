@@ -1,0 +1,1 @@
+[{"mode":"edit_barang","kode":"8886008101091","status":0,"keterangan":"Mengubah Barang 8886008101091","timestamp":"2018-09-09 17:56:23"},{"mode":"edit_laporan_transaksi","kode":"20180810163652","status":0,"keterangan":"Mengubah Laporan Transaksi 20180810163652","timestamp":"2018-09-09 17:56:53"}]

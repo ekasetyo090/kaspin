@@ -1,0 +1,1 @@
+[{"mode":"aktif_plugin","kode":"bussiness_plugin","status":1,"keterangan":"Aktif Plugin bussiness_plugin","timestamp":"2019-06-14 14:16:13"}]

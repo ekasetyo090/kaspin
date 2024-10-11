@@ -1,0 +1,1 @@
+[{"mode":"login","kode":0,"status":0,"keterangan":"Masuk Biasa dengan  AndroidOS 103.119.66.14","timestamp":"2019-07-15 13:20:46"},{"mode":"logout","kode":0,"status":0,"keterangan":"Keluar dari Aplikasi","timestamp":"2019-07-15 14:08:22"},{"mode":"login","kode":0,"status":0,"keterangan":"Masuk Biasa dengan  AndroidOS 103.121.18.126","timestamp":"2019-07-15 14:08:37"}]

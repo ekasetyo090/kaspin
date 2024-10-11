@@ -1,0 +1,1 @@
+[{"mode":"add_laporan_transaksi","kode":"20181123162400","status":0,"keterangan":"Menambah Laporan Transaksi 20181123162400","timestamp":"2018-11-23 16:24:01"},{"mode":"delete_laporan_transaksi_sementara","kode":"20181121140818","status":0,"keterangan":"Menghapus Laporan Transaksi Sementara 20181121140818","timestamp":"2018-11-23 16:24:02"}]

@@ -1,0 +1,1 @@
+[{"mode":"add_pelanggan","kode":"diditse1@kasirpintar.co.id","status":0,"keterangan":"Tambah Data Pelanggan diditse1@kasirpintar.co.id","timestamp":"2019-02-13 00:17:05"},{"mode":"add_laporan_transaksi","kode":"20190213153050","status":0,"keterangan":"Menambah Laporan Transaksi 20190213153050","timestamp":"2019-02-13 15:30:50"}]

@@ -1,0 +1,1 @@
+[{"mode":"tambah_stok","kode":1700891,"status":1,"keterangan":"Tambah Stok 1700891","timestamp":"2019-04-07 19:06:59"},{"mode":"tambah_stok","kode":1700892,"status":1,"keterangan":"Tambah Stok 1700892","timestamp":"2019-04-07 19:22:29"},{"mode":"edit_toko","kode":60,"status":0,"keterangan":"Mengubah Data Toko","timestamp":"2019-04-07 20:12:51"}]

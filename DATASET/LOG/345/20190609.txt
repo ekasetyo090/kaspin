@@ -1,0 +1,1 @@
+[{"mode":"login","kode":0,"status":0,"keterangan":"Masuk Google dengan MiTablet AndroidOS 158.140.167.1","timestamp":"2019-06-09 20:44:29"},{"mode":"add_laporan_transaksi","kode":"20190609204624","status":0,"keterangan":"Menambah Laporan Transaksi 20190609204624","timestamp":"2019-06-09 20:46:25"}]

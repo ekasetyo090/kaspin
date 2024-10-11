@@ -1,0 +1,1 @@
+[{"mode":"add_laporan_transaksi","kode":"20180907225002","status":0,"keterangan":"Menambah Laporan Transaksi 20180907225002","timestamp":"2018-09-07 22:48:14"},{"mode":"edit_barang","kode":"50008199","status":0,"keterangan":"Mengubah Barang 50008199","timestamp":"2018-09-07 22:48:28"}]

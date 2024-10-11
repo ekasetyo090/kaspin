@@ -1,0 +1,1 @@
+[{"mode":"edit_toko","kode":215,"status":0,"keterangan":"Mengubah Data Toko","timestamp":"2018-11-26 16:23:07"},{"mode":"aktif_plugin","kode":"food_menu_plugin","status":1,"keterangan":"Aktif Plugin food_menu_plugin","timestamp":"2018-11-26 20:54:00"}]

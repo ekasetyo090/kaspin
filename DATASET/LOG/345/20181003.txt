@@ -1,0 +1,1 @@
+[{"mode":"edit_pelanggan","kode":"hanumuslem@gmail.com","status":1,"keterangan":"Mengubah Data Pelanggan hanumuslem@gmail.com","timestamp":"2018-10-03 12:03:48"},{"mode":"add_laporan_transaksi","kode":"20181003214119","status":0,"keterangan":"Menambah Laporan Transaksi 20181003214119","timestamp":"2018-10-03 21:41:20"}]

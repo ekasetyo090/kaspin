@@ -1,0 +1,1 @@
+[{"mode":"login","kode":0,"status":0,"keterangan":"Masuk Google dengan ","timestamp":"2019-05-09 09:58:44"},{"mode":"add_diskon","kode":2311,"status":0,"keterangan":"Tambah Data Diskon makanan","timestamp":"2019-05-09 09:59:32"}]
